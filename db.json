@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task One",
+      "day": "May 10th 2021 at 10:00 PM",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit et purus natoque",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "title": "Task Two",
+      "day": "May 11th 2021 at 10:00 PM",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit et purus natoque",
+      "reminder": false
+    },
+    {
+      "title": "Task Three",
+      "day": "May 12th 2021 at 08:13 PM",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit et purus natoque",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}

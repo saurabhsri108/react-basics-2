@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 2rem;
+}
+
+.h1 {
+  font-size: 1.6rem;
+}

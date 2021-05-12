@@ -1,0 +1,43 @@
+.taskItem {
+  margin: 1rem 0;
+  padding: 1rem;
+  box-shadow: 0 0 1rem #777;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  align-content: center;
+  cursor: pointer;
+}
+
+.taskItem h3 {
+  font-size: 1.125rem;
+  display: flex;
+  align-items: center;
+}
+
+.taskItem .heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+
+.taskItem span {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: gray;
+}
+
+.taskItem p {
+  margin-top: 0.8rem;
+  font-size: 0.9rem;
+}
+
+.done {
+  border-left: 0.3rem solid darkgreen;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
